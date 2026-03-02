@@ -1,0 +1,4 @@
+playwright>=1.40.0
+httpx>=0.25.0
+beautifulsoup4>=4.12.0
+faker>=20.0.0

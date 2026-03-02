@@ -1,0 +1,7 @@
+{
+  "max_workers": 3,
+  "headless": false,
+  "slow_mo": 1000,
+  "timeout": 100000,
+  "password": "GantiPasswordAnda123!"
+}
