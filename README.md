@@ -1,3 +1,5 @@
+
+
 # ChatGPT Account Creator
 
 A Python automation script that creates ChatGPT accounts using Playwright browser automation and temporary email services.
@@ -39,7 +41,7 @@ Edit `config.json` to customize:
   "headless": false,
   "slow_mo": 1000,
   "timeout": 100000,
-  "password": "YourPassword123!"
+  "password": "GantiPasswordAnda123!"
 }
 ```
 
